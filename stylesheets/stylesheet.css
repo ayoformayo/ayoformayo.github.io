@@ -21,6 +21,8 @@
 }
 #imageSpan img{
   display: inline-block;
+  border-radius:25px;
+  box-shadow: 5px 5px 5px 5px #888888;
 }
 
 #resume {
@@ -62,10 +64,10 @@
   position: absolute;
   text-align: center;
   height: 80%;
-  background-color: #c02942;
+  /*background-color: #c02942;*/
   /*background-color: red;*/
   /*background-color: #d95b43;*/
-  background-color: #53777a;
+  /*background-color: #53777a;*/
   font-family: sans-serif;
   width: 100%;
 
